@@ -14,3 +14,8 @@ width: 150px;
 height: 150px;
 
 }
+div  {
+    padding: 20px;
+    border: 2px solid purple;
+    margin: 30px;
+}
